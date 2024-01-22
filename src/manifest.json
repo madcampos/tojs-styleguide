@@ -1,7 +1,7 @@
 {
 	"$schema": "https://json.schemastore.org/web-manifest-combined.json",
-	"id": "https://brand.torontojs.com/?id=aa87dd33-35a8-4710-a835-88e98078e582",
-	"scope": "https://brand.torontojs.com/?utm_source=pwa&utm_medium=install&utm_campaign=web_app_manifest",
+	"id": "https://madcampos.dev/tojs-styleguide/?id=aa87dd33-35a8-4710-a835-88e98078e582",
+	"scope": "https://madcampos.dev/tojs-styleguide/?utm_source=pwa&utm_medium=install&utm_campaign=web_app_manifest",
 	"name": "Toronto JS - Brand Manual & Style Guide",
 	"short_name": "TJS Manual",
 	"lang": "en-US",
@@ -101,11 +101,11 @@
 		"version": "1.0.0",
 		"history": [
 			{
-				"url": "https://brand.torontojs.com/#changelog?utm_source=pwa&utm_medium=changelog&utm_campaign=changelog",
+				"url": "https://madcampos.dev/tojs-styleguide/#changelog?utm_source=pwa&utm_medium=changelog&utm_campaign=changelog",
 				"type": "text/html"
 			},
 			{
-				"url": "https://brand.torontojs.com/changelog.rss?utm_source=pwa&utm_medium=changelog&utm_campaign=changelog",
+				"url": "https://madcampos.dev/tojs-styleguide/changelog.rss?utm_source=pwa&utm_medium=changelog&utm_campaign=changelog",
 				"type": "application/rss+xml"
 			}
 		]

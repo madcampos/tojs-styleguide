@@ -4,7 +4,7 @@ type Unpacked<T> = NonNullable<T extends (infer U)[] ? U : T>;
 
 type RuntimeCaching = Unpacked<VitePWAOptions['workbox']['runtimeCaching']>;
 
-const baseUrl = 'https://brand.torontojs.com/';
+const baseUrl = 'https://madcampos.dev/tojs-styleguide/';
 
 export const internalResources: RuntimeCaching = {
 	urlPattern: new RegExp(`^${baseUrl}.*`, 'iu'),

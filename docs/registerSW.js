@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://brand.torontojs.com/sw.js', { scope: 'https://brand.torontojs.com/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://madcampos.dev/tojs-styleguide/sw.js', { scope: 'https://madcampos.dev/tojs-styleguide/' })})}
